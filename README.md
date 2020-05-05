@@ -12,11 +12,11 @@
 - BUSAN_average_tempurature : https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
 
 ## Architecture
-- 1. Linear Regression
-- 2. Linear Regression with Gradient Descent
-- 3. LSTM
+1. Linear Regression
+2. Linear Regression with Gradient Descent
+3. LSTM
 
 ## Results - RMSE error
-- 1. Linear Regression : 28.55174
-- 2. Linear Regression with Gradient Descent : 29.39890
-- 3. LSTM : 23.38848
+1. Linear Regression : 28.55174
+2. Linear Regression with Gradient Descent : 29.39890
+3. LSTM : 23.38848
