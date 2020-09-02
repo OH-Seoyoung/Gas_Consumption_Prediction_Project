@@ -1,5 +1,6 @@
 # Gas_Consumption_Prediction_Project (20200409)
-### Project in data analysis club - 오서영, 허지혜, 이수빈, 강수연
+### Project in data analysis club
+#### This project was maintained by 오서영, 허지혜, 이수빈, 강수연
 - Prediction of  Busan city's gas consumption from 2018-06 to 2019-05
 - Linear Regression, LSTM models
 - [[Presentation]](https://github.com/OH-Seoyoung/Gas_Consumption_Prediction_Project/blob/master/Gas_Consumption_Prediction_Project_Presentation.pdf)
