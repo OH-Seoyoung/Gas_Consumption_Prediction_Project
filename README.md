@@ -5,8 +5,9 @@
 - Linear Regression, LSTM models
 - [[Presentation]](https://github.com/OH-Seoyoung/Gas_Consumption_Prediction_Project/blob/master/Gas_Consumption_Prediction_Project_Presentation.pdf)
 
-```
+
 ## Dataset  
+```
 [1] BUSAN_gas_consumption dataset, https://icim.nims.re.kr/platform/question/16#summary  
 [2] [BUSAN_average_tempurature](https://github.com/OH-Seoyoung/Gas_Consumption_Prediction_Project/blob/master/ta_20200329144537.csv), https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
 ```
