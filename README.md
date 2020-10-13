@@ -12,12 +12,11 @@
 [2] [BUSAN_average_tempurature](https://github.com/OH-Seoyoung/Gas_Consumption_Prediction_Project/blob/master/ta_20200329144537.csv), https://data.kma.go.kr/stcs/grnd/grndTaList.do?pgmNo=70
 ```
 
-## Architecture
-1. Linear Regression
-2. Linear Regression with Gradient Descent
-3. LSTM
-
 ## Results - RMSE error
-1. Linear Regression : 28.55174
-2. Linear Regression with Gradient Descent : 29.39890
-3. LSTM : 23.38848
+#### 1. Linear Regression  
+RMSE error : 28.55174  
+#### 2. Linear Regression with Gradient Descent  
+RMSE error : 29.39890  
+- gradient descent TOL (tolerance)  
+#### LSTM  
+RMSE error : 23.38848  
