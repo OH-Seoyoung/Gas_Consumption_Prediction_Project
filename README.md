@@ -1,5 +1,5 @@
 # Gas Consumption Prediction Project
-- Prediction of  Busan city's gas consumption from 2018-06 to 2019-05
+- Prediction of  Busan city's gas consumption from Jun, 2018 to May, 2019
 - Linear Regression, LSTM models  
 - Apr. 9, 2020
 
